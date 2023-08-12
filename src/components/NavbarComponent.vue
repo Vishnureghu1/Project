@@ -2,8 +2,6 @@
     <div class="bg-gray-900 text-gray-100 py-3.5 px-6 shadow md:flex justify-between item-center">
         <div class="flex item-center">
             <span class="text-green-500 text-xl mr-1">
-                <!-- <i class="bi bi-messenger"></i>
-                 -->
                  <img src="../assets/logo.png" class="vue-logo-icon" alt="">
             </span>
             <h1 class="text-xl mt-2">Vue js Developer</h1>
